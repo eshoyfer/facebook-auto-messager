@@ -1,7 +1,7 @@
 facebook-auto-messager
 ======================
 
-Quick script made back in early 2014.
+Quick script made back in early 2014 with Python.
 
 Automated message sending on Facebook via the browser.
 
