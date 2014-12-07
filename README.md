@@ -1,7 +1,7 @@
 facebook-auto-messager
 ======================
 
-Quick script made back in 2014.
+Quick script made back in early 2014.
 
 Automated message sending on Facebook via the browser.
 
@@ -17,5 +17,12 @@ You'll also need to make sure that you have the required ChromeDriver executable
  See Google's <a href="https://code.google.com/p/selenium/wiki/ChromeDriver">ChromeDriver site</a>
  for details.
  
+ ## Usage
+ 
+ Run the script in any shell with `python main.py` on a system with Python installed/configured.
+ 
+ Follow the prompts to input user information, desired messages, message quantity, and time interval data.
+ 
+ Finally, let it run!
  
 
