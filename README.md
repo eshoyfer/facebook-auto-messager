@@ -1,4 +1,8 @@
 facebook-auto-messager
 ======================
 
-Automated message sending on Facebook
+Quick script made back in 2014.
+
+Automated message sending on Facebook via browser.
+
+
